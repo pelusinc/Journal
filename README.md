@@ -1,2 +1,2 @@
 # Journal
-Journal WEBPRO
+This repo contain Pemweb Journal
